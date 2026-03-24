@@ -3,7 +3,7 @@
 ## 👧 sobre mi
 soy estudiante de 2do semestre de la carrera de tecnica en **programacion**. Actualmente estoy sumergiendome en el mundo del desarrollo de software, enfocandome en construir bases solidas en logica y buenas practicas.
 
--🏫 Colegio de Estudios Cientificos y Tecnologicos del Estadod de Campeche plantel Pomuch 
+-🏫 Colegio de Estudios Cientificos y Tecnologicos del Estado de Campeche plantel Pomuch 
 -📚 Actualmente aprendiendo: **Python** y **Gestion de versiones con Git y GitHub**.
 -🥇 Mi meta actual: Dominar la logica de programacion para resolver problemas de manera eficiente.
 
